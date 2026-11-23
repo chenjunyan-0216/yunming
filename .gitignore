@@ -1,0 +1,42 @@
+# Node
+node_modules/
+npm-debug.log*
+*.tsbuildinfo
+
+# 构建产物
+build-app/
+
+# Electron 桌面装配 / 发布包（体积大，不进源码仓库，用 Releases 附见）
+发布/
+云命-安装包.exe
+云命-桌面版.zip
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
+data/
+
+# ===== 闭源：源码不公开，仓库只推文档与展示物 =====
+# 核心 JS / 入口
+main.js
+server.js
+divination.js
+fix-enc.js
+build-protected.js
+make-icons.js
+# 源码目录
+core/
+electron/
+public/
+test/
+tests/
+# Node 配置
+package.json
+package-lock.json
+# 启动/快捷脚本
+start.bat
+创建桌面快捷方式.bat
+卸载云命.bat
