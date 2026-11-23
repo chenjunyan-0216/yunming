@@ -78,4 +78,4 @@ start.bat        一键启动（桌面版）
 
 ---
 
-**作者**：陈钧焱 · [GitHub](https://github.com/chenjunyan-0216) · 随缘开源，喜欢欢迎 star。
+**作者**：陈钧炎 · [GitHub](https://github.com/chenjunyan-0216) · 随缘开源，喜欢欢迎 star。
